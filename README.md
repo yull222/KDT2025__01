@@ -9,5 +9,5 @@
 + pnu40262	이원준 :
 + pnu40263	홍지민 :
 + pnu40264	하지원 :
-+ pnu40265	이유리 :
++ pnu40265	이유리 : https://github.com/yull222
 + pnu40266	안순현 : 
